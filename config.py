@@ -1,1 +1,1 @@
-RUTA_DESCARGAS = r"/mnt/d/Youtube"
+RUTA_DESCARGAS = r"C:\Users\Pimubi\Music"
